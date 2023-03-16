@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src = "profile.jpg">
+<h2>👋  Hey there! I'm Dhananjaya.</h2>
 
 <!--
 **Dhananjaya1103/Dhananjaya1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
