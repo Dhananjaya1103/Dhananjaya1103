@@ -1,10 +1,4 @@
 <html>
-<head>
-<style>
-h2 {text-align: center;}
-p {text-align: center;}
-</style>
-</head>
 <body>
 <img src = "profile.jpg">
   
