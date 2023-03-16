@@ -2,7 +2,7 @@
 <body>
 <img src = "profile.jpg">
   
-<h2>👋  Hey there! I'm Dhananjaya.</h2>
+<h1>👋  Hey there! I'm Dhananjaya.</h1>
 
 <h3>👨🏻‍💻  About Me:</h3>
 
